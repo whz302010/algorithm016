@@ -1,4 +1,4 @@
-package AlgorithmExercise.diffcult;
+package AlgorithmExercise.Week1.diffcult;
 
 import java.util.*;
 

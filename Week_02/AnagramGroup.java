@@ -1,4 +1,4 @@
-package AlgorithmExercise.easy;
+package AlgorithmExercise.Week1.easy;
 
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package AlgorithmExercise.middle;
+package AlgorithmExercise.Week1.middle;
 
 import java.util.Arrays;
 import java.util.HashMap;
